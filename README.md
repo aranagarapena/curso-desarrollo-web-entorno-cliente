@@ -1,5 +1,3 @@
-# DWEC-Introduccion-Programacion-JavaScript
-
 ## Curso introductorio de nivel intermedio a la programación en C#. 
 
 Los tutoriales están orientado a personas que ya saben programar, por lo que no se explican los conceptos básicos de programación en el lenguaje.
