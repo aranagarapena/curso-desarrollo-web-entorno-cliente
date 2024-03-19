@@ -9,13 +9,13 @@ Los tutoriales están orientado a personas que ya saben programar, por lo que no
 ## Vídeos Explicativos:
 
 ### 0. Introducción al Desarrollo Web
-- Lista de Reproduccion de YouTube con [vídeos realizados por mi](https://youtube.com/playlist?list=PLiMesnCG0J7yMAVkmXfeg2nyovnzuuElt) 
+- [Vídeos realizados por mi](https://youtube.com/playlist?list=PLiMesnCG0J7yMAVkmXfeg2nyovnzuuElt) 
 <!--- Lista de Reproduccion de YouTube con [vídeos adicionales](https://youtube.com/playlist?list=PLiMesnCG0J7xx_b42PQyYO0Td_vNTq4aP) sobre los temas que se tratan en el curso-->
 <!-- Esto es un comentario y no se mostrará en el README visualmente. -->
 
 ### 1. Introducción a la programación en JavaScript
-- Lista de Reproduccion de YouTube con [vídeos realizados por mi](https://youtube.com/playlist?list=PLiMesnCG0J7yMAVkmXfeg2nyovnzuuElt) 
-- Lista de Reproduccion de YouTube con [vídeos adicionales](https://youtube.com/playlist?list=PLiMesnCG0J7xx_b42PQyYO0Td_vNTq4aP) sobre los temas que se tratan en el curso
+- [Vídeos realizados por mi](https://youtube.com/playlist?list=PLiMesnCG0J7yMAVkmXfeg2nyovnzuuElt) 
+- [Contenido Relacionado](https://youtube.com/playlist?list=PLiMesnCG0J7xx_b42PQyYO0Td_vNTq4aP) sobre los temas que se tratan en el curso
 ## Tutoriales
 - [W3Schools](https://www.w3schools.com/js/default.asp)
 - [Tutorials Teacher](https://www.tutorialsteacher.com/javascript)
