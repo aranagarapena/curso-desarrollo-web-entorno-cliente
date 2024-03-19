@@ -1,5 +1,5 @@
 # 📚 Curso de Desarrollo Web en Entorno Cliente
-> **Descripción**: Curso de nivel básico/intermedio en formato vídeo, utilizando Javascript y Angular
+> **Descripción**: Curso de nivel básico/intermedio **en formato vídeo**, utilizando Javascript y Angular
 
 <!-- ---
 
