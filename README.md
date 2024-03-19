@@ -1,64 +1,70 @@
-# 📚 Curso Introductorio de JavaScript (Nivel Principiante/Intermedio)
+# 📚 Curso de Desarrollo Web en Entorno Cliente
+> **Descripción**: Curso nivel básico/intermedio utilizando Javascript y Angular
 
-Este curso está dirigido a quienes ya tienen una base en programación y desean profundizar en JavaScript sin detenerse en los conceptos más elementales.
+<!-- ---
 
+### 📚 Módulos
+Breve descripción de cómo se organiza el curso (por módulos, semanas, temas).
 
-## 🎥 Vídeos Explicativos
+---
 
-### 🌐 0. Introducción al Desarrollo Web
-- 🏫 [Vídeos realizados por mí](https://youtube.com/playlist?list=PLiMesnCG0J7yMAVkmXfeg2nyovnzuuElt)
-- 📚 [Contenido Relacionado](https://youtube.com/playlist?list=PLiMesnCG0J7xx_b42PQyYO0Td_vNTq4aP) - Temas del curso
+## 🛠 Herramientas y Recursos Necesarios
+Listado de herramientas, software, lecturas previas o cualquier otro recurso necesario para seguir el curso. -->
 
-### 💻 1. JavaScript para Principiantes
-- 🏫 [Vídeos realizados por mí](https://youtube.com/playlist?list=PLiMesnCG0J7yMAVkmXfeg2nyovnzuuElt)
-- 📚 [Contenido Relacionado](https://youtube.com/playlist?list=PLiMesnCG0J7xx_b42PQyYO0Td_vNTq4aP) - Temas del curso
+---
 
-## 📘 Tutoriales
-- [W3Schools](https://www.w3schools.com/js/default.asp) - Tutorial completo de JavaScript
-- [Tutorials Teacher](https://www.tutorialsteacher.com/javascript) - Aprende JavaScript paso a paso
+## 📖 Contenidos
 
-## 🛠️ Recursos de Software
-- [VSCode](https://code.visualstudio.com) - Editor de código
-- [Node.JS](https://nodejs.org/es/) - Entorno de ejecución para JavaScript
-- [Sublime Text 3](https://www.sublimetext.com/3) - Editor de texto
+### Módulo 1: Introducción al Desarrollo en Entorno Cliente 🌐
+#### 📺 [Videos](link)
+- [Realizados por mi](link) 🙋
+- [Contenido adicional relacionado](link) 🙈
+#### 📑 Lecturas
+- [Nombre de la Lectura](link)
+#### 🎯 Ejercicios
+- [Nombre del Ejercicio](link)
 
-## 📝 Ejemplos y Ejercicios
-- [Ejemplos JavaScript](https://www.w3schools.com/js/js_examples.asp) - W3Schools
-- [Ejercicios con soluciones](https://www.w3schools.com/js/js_exercises.asp) - W3Schools
-# 📚 Curso Introductorio de JavaScript (Nivel Principiante/Intermedio)
+### Módulo 2: Arquitectura y Lenguajes de Programación en el Lado del Cliente 🏗️
+#### 📺 [Videos](link)
 
-Este curso está dirigido a quienes ya tienen una base en programación y desean profundizar en JavaScript sin detenerse en los conceptos más elementales.
+### Módulo 3: Gestión de Eventos y Formularios 🖱️
+#### 📺 Videos
+- [Realizados por mi](link) 🙋
+- [Contenido adicional relacionado](link) 🙈
 
-## 📖 Documentación
-- [JavaScript](https://www.javascript.com) - Documentación oficial
-- [Node.JS](https://nodejs.org/es/docs/) - Documentación oficial
+### Módulo 4: Programación AJAX 🔄
+#### 📺 Videos
+- [Realizados por mi](link) 🙋
+- [Contenido adicional relacionado](link) 🙈
 
-## 🎥 Vídeos Explicativos
+### Módulo 5: Angular y TypeScript I 🅰️ 
+#### 📺 Videos
+- [Realizados por mi](link) 🙋
+- [Contenido adicional relacionado](link) 🙈
 
-### 🌐 0. Introducción al Desarrollo Web
-- 🏫 [Vídeos realizados por mí](https://youtube.com/playlist?list=PLiMesnCG0J7yMAVkmXfeg2nyovnzuuElt)
-- 📚 [Contenido Relacionado](https://youtube.com/playlist?list=PLiMesnCG0J7xx_b42PQyYO0Td_vNTq4aP) - Temas del curso
+### Módulo 6: Angular y TypeScript II 🅰️ 
+#### 📺 Videos
+- [Realizados por mi](link) 🙋
+- [Contenido adicional relacionado](link) 🙈
 
-### 💻 1. JavaScript para Principiantes
-- 🏫 [Vídeos realizados por mí](https://youtube.com/playlist?list=PLiMesnCG0J7yMAVkmXfeg2nyovnzuuElt)
-- 📚 [Contenido Relacionado](https://youtube.com/playlist?list=PLiMesnCG0J7xx_b42PQyYO0Td_vNTq4aP) - Temas del curso
+---
 
-<!--## 📘 Tutoriales
-- [W3Schools](https://www.w3schools.com/js/default.asp) - Tutorial completo de JavaScript
-- [Tutorials Teacher](https://www.tutorialsteacher.com/javascript) - Aprende JavaScript paso a paso
+## 🚀 Proyectos y Evaluaciones
+Detalles sobre los proyectos, trabajos prácticos o evaluaciones que los estudiantes deberán completar, incluyendo criterios de evaluación y fechas límites.
 
-## 🛠️ Recursos Software
-- [VSCode](https://code.visualstudio.com) - Editor de código
-- [Node.JS](https://nodejs.org/es/) - Entorno de ejecución para JavaScript
-- [Sublime Text 3](https://www.sublimetext.com/3) - Editor de texto
+---
 
-## 📖 Documentación
-- [JavaScript](https://www.javascript.com) - Documentación oficial
-- [Node.JS](https://nodejs.org/es/docs/) - Documentación oficial
+## ❓ Preguntas Frecuentes (FAQ)
+Un apartado para resolver dudas comunes puede ser muy útil para los estudiantes y reducir repetición de consultas.
 
-<!--## 📝 Ejemplos y Ejercicios
-- [Ejemplos JavaScript](https://www.w3schools.com/js/js_examples.asp) - W3Schools
-- [Ejercicios con soluciones](https://www.w3schools.com/js/js_exercises.asp) - W3Schools -->
+---
 
-## Contacto
-Si tienes alguna pregunta, no dudes en contactarme en [iarana@birt.eus](mailto:iarana@birt.eus).
+## 🤝 Cómo Contribuir
+Si tu curso o proyecto está abierto a contribuciones, aquí puedes explicar cómo los interesados pueden hacerlo.
+
+---
+
+## 📬 Contacto
+Información de contacto para soporte o consultas adicionales.
+
+---
