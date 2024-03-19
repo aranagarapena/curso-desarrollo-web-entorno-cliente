@@ -15,7 +15,7 @@ Listado de herramientas, software, lecturas previas o cualquier otro recurso nec
 
 ## 🎥 Vídeos Explicativos
 
-### 🌐 1. Introducción al Desarrollo en Entorno Cliente 
+### 🌐 Modulo 1. Introducción al Desarrollo en Entorno Cliente 
 - 🙋 [Realizados por mi](link) 
 - 📚 [Contenido adicional relacionado](link) 
 <!--#### 📑 Lecturas
@@ -24,23 +24,23 @@ Listado de herramientas, software, lecturas previas o cualquier otro recurso nec
 - [Nombre del Ejercicio](link)
 -->
 
-### 🏗️ 2. Arquitectura y Lenguajes de Programación en el Lado del Cliente 
+### 🏗️ Modulo 2. Arquitectura y Lenguajes de Programación en el Lado del Cliente 
 - 🙋 [Realizados por mi](link) 
 - 📚 [Contenido adicional relacionado](link)
 
-### 🖱️ Módulo 3: Gestión de Eventos y Formularios 
+### 🖱️ Módulo 3. Gestión de Eventos y Formularios 
 - 🙋 [Realizados por mi](link) 
 - 📚 [Contenido adicional relacionado](link)
 
-### 🔄 Módulo 4: Programación AJAX 
+### 🔄 Módulo 4. Programación AJAX 
 - 🙋 [Realizados por mi](link) 
 - 📚 [Contenido adicional relacionado](link)
 
-### 🅰️ Módulo 5: Angular y TypeScript I  
+### 🅰️ Módulo 5. Angular y TypeScript I  
 - 🙋 [Realizados por mi](link) 
 - 📚 [Contenido adicional relacionado](link)
 
-### 🅰️  Módulo 6: Angular y TypeScript II 
+### 🅰️  Módulo 6. Angular y TypeScript II 
 - 🙋 [Realizados por mi](link) 
 - 📚 [Contenido adicional relacionado](link)
 
