@@ -15,7 +15,7 @@ Listado de herramientas, software, lecturas previas o cualquier otro recurso nec
 
 ## 🎥 Vídeos Explicativos
 
-### 🌐 Módulo 1: Introducción al Desarrollo en Entorno Cliente 
+### 🌐 1. Introducción al Desarrollo en Entorno Cliente 
 - 🙋 [Realizados por mi](link) 
 - 📚 [Contenido adicional relacionado](link) 
 <!--#### 📑 Lecturas
@@ -24,7 +24,7 @@ Listado de herramientas, software, lecturas previas o cualquier otro recurso nec
 - [Nombre del Ejercicio](link)
 -->
 
-### 🏗️ Módulo 2: Arquitectura y Lenguajes de Programación en el Lado del Cliente 
+### 🏗️ 2. Arquitectura y Lenguajes de Programación en el Lado del Cliente 
 - 🙋 [Realizados por mi](link) 
 - 📚 [Contenido adicional relacionado](link)
 
