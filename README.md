@@ -16,7 +16,7 @@ Listado de herramientas, software, lecturas previas o cualquier otro recurso nec
 ## 📖 Contenidos
 
 ### 🌐 Modulo 1. Introducción al Desarrollo en Entorno Cliente 
-- [Realizados por mi] (https://www.youtube.com/playlist?list=PLZOstcbQvZh-rvZGHxtgDNKGUfS7TMDP5) 🎥
+- 🎥 [Realizados por mi] (https://www.youtube.com/playlist?list=PLZOstcbQvZh-rvZGHxtgDNKGUfS7TMDP5)
 <!-- - 📚 [Contenido adicional relacionado](link)  -->
 <!--#### 📑 Lecturas
 - [Nombre de la Lectura](link)
