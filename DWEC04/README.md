@@ -1,6 +1,6 @@
-# DWEC01: Introducción al Desarrollo en Entorno Cliente
+# DWEC04: Programación AJAX
 
-![JavaScript Logo](https://media.licdn.com/dms/image/D4D12AQE9KDPe-KE_cQ/article-cover_image-shrink_600_2000/0/1695744816253?e=2147483647&v=beta&t=l_E8OFNB-MVXPvGVRxnlW5IR1KATQNMgRJp_cP4uSGE)
+![JavaScript Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYFPIW-_KvF1x_gsKcx0Be0pWsDfp0VPMB8w&usqp=CAU)
 
 <!-- Bienvenido/a a la Unidad Didáctica 1 del módulo de Desarrollo Web en Entorno Cliente (DWEC). En esta unidad, nos enfocaremos en introducir los conceptos básicos de JavaScript, el lenguaje de programación que nos permitirá añadir interactividad a nuestras páginas web. -->
 ---
@@ -74,4 +74,4 @@ Este es un espacio de aprendizaje colaborativo. Si tienes dudas, sugerencias o i
 ---
 -->
 
-⬅️ [UD Anterior](#) | [Inicio](#) | [UD Siguiente](#) ➡️
+⬅️ [UD Anterior](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main/DWEC03) | [Inicio](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main) | [UD Siguiente](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main/DWEC05) ➡️
