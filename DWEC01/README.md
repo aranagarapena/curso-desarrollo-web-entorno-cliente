@@ -23,7 +23,7 @@
 
 ## 📚 Contenidos
 #### Vídeos
-- Realizados por mi 🙋‍♂️
+- [Realizados por mi](https://www.youtube.com/playlist?list=PLZOstcbQvZh-rvZGHxtgDNKGUfS7TMDP5) 🙋‍♂️
 - Relacionados 👥
 #### Otros
 ---

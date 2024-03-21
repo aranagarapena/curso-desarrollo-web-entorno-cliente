@@ -16,7 +16,7 @@ Listado de herramientas, software, lecturas previas o cualquier otro recurso nec
 ## 📖 Contenidos
 
 ### 🌐 Modulo 1. Introducción al Desarrollo en Entorno Cliente 
-- 🎥 [Realizados por mi](https://www.youtube.com/playlist?list=PLZOstcbQvZh-rvZGHxtgDNKGUfS7TMDP5)
+- [Ir a DWEC01](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main/DWEC01)
 
 <!-- - 📚 [Contenido adicional relacionado](link)  -->
 <!--#### 📑 Lecturas
@@ -26,23 +26,23 @@ Listado de herramientas, software, lecturas previas o cualquier otro recurso nec
 -->
 
 ### 🏗️ Modulo 2. Arquitectura y Lenguajes de Programación en el Lado del Cliente 
-- 🎥 [Realizados por mi](https://www.youtube.com/playlist?list=PLZOstcbQvZh95UY-E0mFcuK-Eqw2IEBfs) 
+- [Ir a DWEC02](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main/DWEC01)
 <!-- - 📚 [Contenido adicional relacionado](link) -->
 
 ### 🖱️ Módulo 3. Gestión de Eventos y Formularios 
-- 🎥 [Realizados por mi](https://www.youtube.com/playlist?list=PLZOstcbQvZh_kSBJGZB0kFBfP5Zy7RIfE) 
+- [Ir a DWEC03](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main/DWEC01)
 <!-- - 📚 [Contenido adicional relacionado](link) -->
 
 ### 🔄 Módulo 4. Programación AJAX 
-- 🎥 [Realizados por mi](https://youtube.com/playlist?list=PLZOstcbQvZh8PXM86ETog1_xBoMJe-DcG&si=XaghMkSOu7kFFcI4) 
+- [Ir a DWEC04](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main/DWEC01)
 <!-- - 📚 [Contenido adicional relacionado](link) -->
 
 ### 🅰️ Módulo 5. Angular y TypeScript I  
-- 🎥 [Realizados por mi](https://youtube.com/playlist?list=PLZOstcbQvZh8m3Q2b9E0WuGp4DwAel__E&si=idjetOZmPTEdgQnV) 
+- [Ir a DWEC05](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main/DWEC01)
 <!-- - 📚 [Contenido adicional relacionado](link) -->
 
 ### 🅰️  Módulo 6. Angular y TypeScript II 
-- 🎥 [Realizados por mi](https://youtube.com/playlist?list=PLZOstcbQvZh_xFhuSM9AS25DM_j_ThT4_&si=tBTenLf8n5MtIBZW) 
+- [Ir a DWEC06](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main/DWEC01)
 <!-- - 📚 [Contenido adicional relacionado](link) -->
 
 <!--
