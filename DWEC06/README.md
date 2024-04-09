@@ -1,4 +1,4 @@
-# DWEC01: Introducción al Desarrollo en Entorno Cliente
+# DWEC06: Angular II
 
 ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png)
 
