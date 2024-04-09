@@ -26,23 +26,23 @@ Listado de herramientas, software, lecturas previas o cualquier otro recurso nec
 -->
 
 ### 🏗️ Modulo 2. Arquitectura y Lenguajes de Programación en el Lado del Cliente 
-- [Ir a DWEC02](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main/DWEC01)
+- [Ir a DWEC02](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main/DWEC02)
 <!-- - 📚 [Contenido adicional relacionado](link) -->
 
 ### 🖱️ Módulo 3. Gestión de Eventos y Formularios 
-- [Ir a DWEC03](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main/DWEC01)
+- [Ir a DWEC03](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main/DWEC03)
 <!-- - 📚 [Contenido adicional relacionado](link) -->
 
 ### 🔄 Módulo 4. Programación AJAX 
-- [Ir a DWEC04](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main/DWEC01)
+- [Ir a DWEC04](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main/DWEC04)
 <!-- - 📚 [Contenido adicional relacionado](link) -->
 
 ### 🅰️ Módulo 5. Angular y TypeScript I  
-- [Ir a DWEC05](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main/DWEC01)
+- [Ir a DWEC05](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main/DWEC05)
 <!-- - 📚 [Contenido adicional relacionado](link) -->
 
 ### 🅰️  Módulo 6. Angular y TypeScript II 
-- [Ir a DWEC06](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main/DWEC01)
+- [Ir a DWEC06](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main/DWEC06)
 <!-- - 📚 [Contenido adicional relacionado](link) -->
 
 <!--
